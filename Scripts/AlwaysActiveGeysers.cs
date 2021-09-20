@@ -15,7 +15,7 @@ namespace AlwaysActiveGeysers.Scripts
             Debug.Log(AlwaysActiveGeysers.ModName + ": Unloaded");
         }
 
-        public static string WorkshopId = "";
+        public static string WorkshopId = "2607080562";
 
         public static string ModName = "AlwaysActiveGeysers";
     }
